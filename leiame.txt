@@ -1,0 +1,5 @@
+@diretório
+vm@DESKTOP-slcr:
+ mnt/
+      d/user.sergio/_fontes.hd/_estudo-fora aws/ada.curso.itau/data_analytics_engineering/Analytics-sergio
+	  $
